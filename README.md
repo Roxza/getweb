@@ -1,7 +1,7 @@
 [![DeepScan grade](https://deepscan.io/api/teams/17008/projects/20327/branches/552110/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=17008&pid=20327&bid=552110)
 [![NPM info](https://img.shields.io/npm/dt/getweb?color=39F4B6)](https://www.npmjs.com/package/getweb)
-[![GitHub stars](https://img.shields.io/github/stars/ceyrex20/getweb?color=888BFF)](https://github.com/ceyrex20/getweb/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues-raw/ceyrex20/getweb)](https://github.com/ceyrex20/getweb/issues)
+[![GitHub stars](https://img.shields.io/github/stars/roxza/getweb?color=888BFF)](https://github.com/roxza/getweb/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues-raw/roxza/getweb)](https://github.com/roxza/getweb/issues)
 
 [![NPM Info](https://nodei.co/npm/getweb.png?downloads=true&stars=true)](https://www.npmjs.com/package/getweb)
 
@@ -9,7 +9,7 @@
 
 A lightweight, fast and not async request module.
 
-You can go to the documentation by [clicking here](https://getweb.glitch.me).
+You can go to the documentation by [clicking here](https://ww.npmjs.com/package/getweb).
 
 ## Basic Example
 
