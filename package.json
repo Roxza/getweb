@@ -1,0 +1,25 @@
+{
+  "name": "getweb",
+  "version": "0.0.2",
+  "description": "A lightweight, fast and not async request module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "ceyrex20",
+  "types": "index.d.ts",
+  "keywords": [
+    "getweb",
+    "request",
+    "webget",
+    "get",
+    "web",
+    "get-web",
+    "web-get"
+  ],
+  "bugs": {
+    "url": "https://github.com/RRoxza/getweb/issues"
+  },
+  "homepage": "https://github.com/RRoxza/getweb#readme",
+  "license": "MIT"
+}
