@@ -1,4 +1,4 @@
-[![DeepScan grade](https://deepscan.io/api/teams/9479/projects/12083/branches/182378/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=9479&pid=12083&bid=182378)
+[![DeepScan grade](https://deepscan.io/api/teams/17008/projects/20327/branches/552110/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=17008&pid=20327&bid=552110)
 [![NPM info](https://img.shields.io/npm/dt/getweb?color=39F4B6)](https://www.npmjs.com/package/getweb)
 [![GitHub stars](https://img.shields.io/github/stars/ceyrex20/getweb?color=888BFF)](https://github.com/ceyrex20/getweb/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues-raw/ceyrex20/getweb)](https://github.com/ceyrex20/getweb/issues)
